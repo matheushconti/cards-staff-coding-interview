@@ -1,3 +1,7 @@
+# Solution
+
+Created hooks, functions and components to implement all the features requested in this challenge
+
 # NerdWallet Coding Interview
 
 This project is a coding interview for NerdWallet. To get started, run:
